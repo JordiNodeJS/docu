@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'My Site',
   tagline: 'Dinosaurs are cool',
-  url: 'https://github.com/JordiNodeJS',
+  url: 'https://jordinodejs.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -23,7 +23,7 @@ const config = {
   // for non-organization GitHub Pages repos (projectName not ending in .github.io).
   // Otherwise, this needs to be explicit as a config field or environment variable.
   deploymentBranch: 'gh-pages',
-  trailingSlash: true,
+  trailingSlash: false,
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
@@ -76,7 +76,7 @@ const config = {
           },
           { to: '/blog', label: 'Blog', position: 'left' },
           {
-            href: 'https://github.com/JordiNodeJS',
+            href: 'https://jordinodejs.github.io/docu/',
             label: 'GitHub',
             position: 'right',
           },
