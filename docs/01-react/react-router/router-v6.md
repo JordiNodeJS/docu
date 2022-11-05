@@ -1,7 +1,8 @@
 ---
 sidebar_position: 1
 ---
-# Router v6
+# React Router
+## React Router v6.4.3
 
 [React Router](https://reactrouter.com/en/6.4.3)
 
@@ -431,3 +432,8 @@ export default Blog;
 `npm run build`
 
 Subir a netlify 🎉 [https://www.netlify.com/ 🐱‍🏍](https://www.netlify.com/)
+
+## Proyecto Final
+
+- [github](https://github.com/bluuweb/router-v6-react-ejemplo-youtube)
+- [preview](https://determined-hoover-0ab8f7.netlify.app/)

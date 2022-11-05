@@ -12,7 +12,7 @@ const config = {
   baseUrl: '/docu',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon_io/favicon.ico',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -58,15 +58,22 @@ const config = {
         title: 'Coding',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/pergamino.webp',
         },
         items: [
+                    {
+            type: 'doc',
+            docId: 'react/react-router/router-v6',
+            label: 'React Router',
+            position: 'left',
+          },
           {
             type: 'doc',
-            docId: 'intro2',
+            docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Tutorial Intro',
           },
+
           { to: '/blog', label: 'Blog', position: 'left' },
           {
             href: 'https://jordinodejs.github.io/docu/',

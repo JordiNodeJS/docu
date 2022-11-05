@@ -1,6 +1,6 @@
 {
-  "label": "React Router v6.4.3",
-  "position": 1,
+  "label": "Router",
+  "position": 2,
   "link": {
     "type": "generated-index",
     "description": "v6.4 is our most exciting release yet with new data abstractions for reads, writes, and navigation hooks to easily keep your UI in sync with your data. The new feature overview will catch you up."
