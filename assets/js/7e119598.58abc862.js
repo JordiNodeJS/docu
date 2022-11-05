@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[5373],{1275:a=>{a.exports=JSON.parse('{"label":"It Academy","permalink":"/docu/blog/tags/it-academy","allTagsPath":"/docu/blog/tags","count":1}')}}]);

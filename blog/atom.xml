@@ -1,12 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jordinodejs.github.io/docu/blog</id>
-    <title>My Site Blog</title>
-    <updated>2021-08-26T00:00:00.000Z</updated>
+    <title>Tutotials Codes Blog</title>
+    <updated>2022-11-05T00:10:17.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jordinodejs.github.io/docu/blog"/>
-    <subtitle>My Site Blog</subtitle>
+    <subtitle>Tutotials Codes Blog</subtitle>
     <icon>https://jordinodejs.github.io/docu/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[My awesome blog]]></title>
+        <id>awesome</id>
+        <link href="https://jordinodejs.github.io/docu/blog/awesome"/>
+        <updated>2022-11-05T00:10:17.000Z</updated>
+        <summary type="html"><![CDATA[My personal blog]]></summary>
+        <content type="html"><![CDATA[<p>My personal blog</p>]]></content>
+        <author>
+            <name>Sébastien Lorber</name>
+            <uri>https://sebastienlorber.com</uri>
+        </author>
+        <author>
+            <name>Yangshun Tay</name>
+            <uri>https://github.com/yangshun</uri>
+        </author>
+        <category label="facebook" term="facebook"/>
+        <category label="hello" term="hello"/>
+        <category label="docusaurus" term="docusaurus"/>
+        <category label="It Academy" term="It Academy"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>welcome</id>
